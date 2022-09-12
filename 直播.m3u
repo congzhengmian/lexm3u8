@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226009/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225833/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中国",CCTV-3
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226017/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4高清
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=063
+#EXTINF:-1 tvg-id=“5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226025/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225893/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中国",CCTV-6
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中国",CCTV-7
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225831/index.m3u8
+#EXTINF:-1  tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中国",CCTV-8
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226023/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中国",CCTV-9
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225829/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中国",CCTV-10
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225827/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11高清
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=130
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中国",CCTV-12
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225825/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13高清
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=067
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14高清
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=132
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15高清
+https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=133
+#EXTINF:-1  tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="中国",CCTV-16
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226317/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中国",CCTV-17
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221226039/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="中国",湖南卫视
+http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225847/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
+https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now新闻
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now直播
+https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=331
