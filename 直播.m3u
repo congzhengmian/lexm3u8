@@ -41,6 +41,8 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225847/index.m3u8
 https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=1
 #EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
 https://php.52sf.ga/@Curly_MouseIPTV-TVB.php?id=2
+#EXTINF:-1 tvg-id="133" tvg-name="咪咕世界杯"  group-title="中国",咪咕世界杯
+http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now新闻
 https://php.52sf.ga/@Curly_MouseIPTV-NOW.php?id=332
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",now直播
