@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV4k" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4k
+http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225835/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中国",CCTV-2
